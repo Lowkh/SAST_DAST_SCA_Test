@@ -17,6 +17,7 @@ def calculate():
 
         if operation == 'add':
             result = num1 + num2
+            result = result
         elif operation == 'subtract':
             result = num1 - num2
         elif operation == 'multiply':
